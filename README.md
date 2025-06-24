@@ -5,3 +5,5 @@
 4.  FIFA 足球國家隊排名時間序列分析_plot_data_seaborn
 5.  使用 Python 視覺化博物館月度訪客時間序列_Line Chart
 6.  分析糖果特性（含糖量、價格、巧克力）對市場勝率的影響_Scatter Plots
+
+<p> Copyright © <a href="https://github.com/zhu7055">jiayi-zhu</a></p>
